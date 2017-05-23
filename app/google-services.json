@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "769982492898",
+    "firebase_url": "https://easymind-4a271.firebaseio.com",
+    "project_id": "easymind-4a271",
+    "storage_bucket": "easymind-4a271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769982492898:android:3b8a0e13e1aee4c3",
+        "android_client_info": {
+          "package_name": "cn.studyjams.s2.sj175.jenice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769982492898-ssp61sfbac1016k6oo37jros9lufcs8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZ6RpbhQzM5UboDApJKRoSkF8LgxeLYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EasyMind</string>
+
+    <string name="about_us">Easy Mind 是一款资源浏览型APP。
+        针对每个想学习安卓却又无从下手的小伙伴，在这里可以浏览到有关安卓学习的网站介绍和链接，
+        学习起来更加快捷高效！</string>
 </resources>

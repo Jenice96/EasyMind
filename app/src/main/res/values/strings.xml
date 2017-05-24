@@ -4,4 +4,40 @@
     <string name="about_us">Easy Mind 是一款资源浏览型APP。
         针对每个想学习安卓却又无从下手的小伙伴，在这里可以浏览到有关安卓学习的网站介绍和链接，
         学习起来更加快捷高效！</string>
+
+    <string name="studyjams1">Study Jams 活动可以帮助任何零基础的学员入门 Android 开发，无需任何费用，
+        优秀学员还可以得到 Google 的纪念证书。</string>
+    <string name="studyjams2">学员们还能尝试使用更多 Google 新技术做开发，用 Firebase 运营，
+        使用 AdMob 盈利，上载你的应用到 Google Play，在全球平台创新。</string>
+    <string name="studyjams3">本论坛是 StudyJams 活动在国内的交流论坛，
+        本站发表的内容不代表 Google 立场。</string>
+    <string name="studyjams4">网站地址：http://www.studyjamscn.com/</string>
+    <string name="studyjams5">反馈邮箱:study-jams-china@google.com</string>
+
+    <string name="material1">Material Design，中文名：材料设计语言，是由Google推出的全新的设计语言，谷歌表示
+        ，这种设计语言旨在为手机、平板电脑、台式机和“其他平台”提供更一致、更广泛的“外观和感觉”。</string>
+    <string name="material2">Material Design不再让像素处于同一个平面，而是让它们按照规则处于空间当中，
+        具备不同的维度。</string>
+    <string name="material3">Material Design还规范了Android的运动元素，让按钮的弹入弹出，卡片的
+        滑入滑出以及从一个界面变化成另一个界面的方法，都是秩序的、深思熟虑过的。</string>
+    <string name="material4">对于现实世界中的隐喻，Material Design更加倾向于用色彩来提示。
+        我们按下屏幕当中的按钮时，可以看到按钮颜色迅速发生变化，向石头投入湖面一样，产生了一波涟漪。</string>
+    <string name="material5">评价：Google 发布的Material Design语言更像是一套界面设计标准，而苹果发布的Swift语言
+        是一款编程语言，为了降低开发者的门槛，二者截然不同。</string>
+    <string name="material6">官网链接：https://material.io/</string>
+    <string name="material7">相关推荐：http://www.imooc.com/learn/215(慕课网的课程，比较好，推荐哦~)</string>
+
+    <string name="icon1">Iconfont是国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式
+    转换等功能。</string>
+    <string name="icon2">Iconfont的功能支持：关键词模糊搜索；多色图标支持分路径改色；支持单个或批量上传多个icon；支持
+    图标自定义配置标签；项目管理帮助团队协同合作的共享模块；支持原创图标，尊重设计成果，可以对设计师进行打赏！</string>
+    <string name="icon3">网站链接：http://www.iconfont.cn/</string>
+    <string name="icon4">使用指南：http://iconfont.cn/plus/help/index </string>
+
+    <string name="axure1">Axure RP是一个专业的快速原型设计工具。Axure（发音：Ack-sure），代表美国Axure公司；
+        RP则是Rapid Prototyping（快速原型）的缩写。</string>
+    <string name="axure2">Axure RP已被一些大公司采用。Axure RP的使用者主要包括商业分析师、信息架构师、可用性专家、
+        产品经理、IT咨询师、用户体验设计师、交互设计师、界面设计师等，另外，架构师、程序开发工程师也在使用Axure。</string>
+    <string name="axure3">网站链接：https://www.axure.com.cn/</string>
+    <string name="axure4">资源链接：http://www.woshipm.com/tag/axure</string>
 </resources>

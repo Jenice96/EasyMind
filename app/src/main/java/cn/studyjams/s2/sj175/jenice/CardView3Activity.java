@@ -1,6 +1,7 @@
 package cn.studyjams.s2.sj175.jenice;
 
 import android.os.Bundle;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
@@ -9,6 +10,7 @@ import android.widget.Toast;
 
 public class CardView3Activity extends AppCompatActivity implements View.OnClickListener{
     private Toolbar toolbar;
+    private ActionBar actionBar;
     private ImageView iv_1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,6 +22,10 @@ public class CardView3Activity extends AppCompatActivity implements View.OnClick
 
         setSupportActionBar(toolbar);
         iv_1.setOnClickListener(this);
+
+        actionBar = getSupportActionBar();
+        actionBar.setTitle("Iconfont");
+        actionBar.setSubtitle("矢量图标库");
     }
 
     @Override

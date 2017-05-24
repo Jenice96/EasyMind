@@ -1,6 +1,7 @@
 package cn.studyjams.s2.sj175.jenice;
 
 import android.os.Bundle;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
@@ -10,6 +11,7 @@ import android.widget.Toast;
 public class CardView1Activity extends AppCompatActivity implements View.OnClickListener {
 
     private Toolbar toolbar;
+    private ActionBar actionbar;
     private ImageView iv_1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +23,10 @@ public class CardView1Activity extends AppCompatActivity implements View.OnClick
 
         setSupportActionBar(toolbar);
         iv_1.setOnClickListener(this);
+
+        actionbar = getSupportActionBar();
+        actionbar.setTitle("Studyjams");
+        actionbar.setSubtitle("学习安卓的第一选择");
     }
 
     @Override

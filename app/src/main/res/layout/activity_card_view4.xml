@@ -18,28 +18,68 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="250dp"
-        android:src="@drawable/easymind"
+        android:layout_height="240dp"
+        android:src="@drawable/axure2"
         android:scaleType="fitXY"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="XXXX"
-        android:textSize="20dp"
-        android:textColor="@color/maincolor"
-        android:layout_marginTop="20dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
-        android:layout_gravity="center"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/axure1"
+                android:textSize="20dp"
+                android:textColor="@color/maincolor"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/axure2"
+                android:textSize="20dp"
+                android:textColor="@color/maincolor"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/axure3"
+                android:textSize="20dp"
+                android:textColor="@color/maincolor"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/axure4"
+                android:textSize="20dp"
+                android:textColor="@color/maincolor"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_gravity="center"/>
 
-    <ImageView
-        android:id="@+id/iv_4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/pets"
-        android:layout_gravity="center"
-        android:layout_marginTop="20dp"
-        android:onClick="toast"/>
+            <ImageView
+                android:id="@+id/iv_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/pets"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:onClick="toast"/>
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

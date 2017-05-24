@@ -40,14 +40,14 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="190dp"
-                        android:src="@drawable/easymind"
+                        android:src="@drawable/studyjams"
                         android:scaleType="fitXY"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_marginTop="10dp"
-                        android:text="XXXX"
+                        android:text="Studyjams--学习安卓的第一选择"
                         android:textColor="@color/white"
                         android:textSize="20dp"/>
                 </LinearLayout>
@@ -70,14 +70,14 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="190dp"
-                        android:src="@drawable/easymind"
+                        android:src="@drawable/material"
                         android:scaleType="fitXY"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_marginTop="10dp"
-                        android:text="XXXX"
+                        android:text="Material Design"
                         android:textColor="@color/white"
                         android:textSize="20dp"/>
                 </LinearLayout>
@@ -100,14 +100,14 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="190dp"
-                        android:src="@drawable/easymind"
+                        android:src="@drawable/iconfont"
                         android:scaleType="fitXY"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_marginTop="10dp"
-                        android:text="XXXX"
+                        android:text="Iconfont--矢量图标库"
                         android:textColor="@color/white"
                         android:textSize="20dp"/>
                 </LinearLayout>
@@ -130,14 +130,14 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="190dp"
-                        android:src="@drawable/easymind"
+                        android:src="@drawable/axure"
                         android:scaleType="fitXY"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_marginTop="10dp"
-                        android:text="XXXX"
+                        android:text="Axure--快速原型设计工具"
                         android:textColor="@color/white"
                         android:textSize="20dp"/>
                 </LinearLayout>

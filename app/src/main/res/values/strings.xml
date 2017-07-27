@@ -7,12 +7,11 @@
 
     <string name="studyjams1">Study Jams 活动可以帮助任何零基础的学员入门 Android 开发，无需任何费用，
         优秀学员还可以得到 Google 的纪念证书。</string>
-    <string name="studyjams2">学员们还能尝试使用更多 Google 新技术做开发，用 Firebase 运营，
-        使用 AdMob 盈利，上载你的应用到 Google Play，在全球平台创新。</string>
-    <string name="studyjams3">本论坛是 StudyJams 活动在国内的交流论坛，
-        本站发表的内容不代表 Google 立场。</string>
+    <string name="studyjams2">studyjams的学员们还能尝试使用更多 Google 新技术做开发，用 Firebase 运营，
+        使用 AdMob 盈利，上载应用到 Google Play，在全球平台创新。</string>
+    <string name="studyjams3">studyjams是每个学习安卓开发的小伙伴的不二选择。</string>
     <string name="studyjams4">网站地址：http://www.studyjamscn.com/</string>
-    <string name="studyjams5">反馈邮箱:study-jams-china@google.com</string>
+    <string name="studyjams5">论坛提供的反馈邮箱:study-jams-china@google.com</string>
 
     <string name="material1">Material Design，中文名：材料设计语言，是由Google推出的全新的设计语言，谷歌表示
         ，这种设计语言旨在为手机、平板电脑、台式机和“其他平台”提供更一致、更广泛的“外观和感觉”。</string>
